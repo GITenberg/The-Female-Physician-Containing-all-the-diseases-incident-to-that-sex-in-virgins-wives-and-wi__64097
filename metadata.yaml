@@ -1,11 +1,16 @@
 _repo: The-Female-Physician-Containing-all-the-diseases-incident-to-that-sex-in-virgins-wives-and-wi__64097
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64097-h/images/cover.jpg
 creator:
   author:
     agent_name: Maubray, John
     gutenberg_agent_id: '52748'
     url: http://www.gutenberg.org/2009/agents/52748
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64097#The-Female-Physician-Containing-all-the-diseases-incident-to-that-sex-in-virgins-wives-and-wi_
 gutenberg_issued: '2020-12-21'
 gutenberg_type: Text
 identifiers:
